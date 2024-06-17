@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "88. Merge Sorted Array", "8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66. Plus One", "66. Plus One\66. Plus One.csproj", "{74077396-D3F9-44E9-AA35-59A2EC1933A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "172. Factorial Trailing Zeroes", "172. Factorial Trailing Zeroes\172. Factorial Trailing Zeroes.csproj", "{5AC9D657-5D08-41F2-8120-1879199A3E25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{74077396-D3F9-44E9-AA35-59A2EC1933A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74077396-D3F9-44E9-AA35-59A2EC1933A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74077396-D3F9-44E9-AA35-59A2EC1933A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC9D657-5D08-41F2-8120-1879199A3E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC9D657-5D08-41F2-8120-1879199A3E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC9D657-5D08-41F2-8120-1879199A3E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC9D657-5D08-41F2-8120-1879199A3E25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
