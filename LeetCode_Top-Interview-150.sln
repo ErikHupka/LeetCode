@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66. Plus One", "66. Plus On
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "172. Factorial Trailing Zeroes", "172. Factorial Trailing Zeroes\172. Factorial Trailing Zeroes.csproj", "{5AC9D657-5D08-41F2-8120-1879199A3E25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "69. Sqrt(x)", "69. Sqrt(x)\69. Sqrt(x).csproj", "{1A76C940-27DC-43C9-864A-BE4392061C12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{5AC9D657-5D08-41F2-8120-1879199A3E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AC9D657-5D08-41F2-8120-1879199A3E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AC9D657-5D08-41F2-8120-1879199A3E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A76C940-27DC-43C9-864A-BE4392061C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A76C940-27DC-43C9-864A-BE4392061C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A76C940-27DC-43C9-864A-BE4392061C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A76C940-27DC-43C9-864A-BE4392061C12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
