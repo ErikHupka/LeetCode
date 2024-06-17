@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66. Plus One", "66. Plus One\66. Plus One.csproj", "{BEC27AFB-0744-4066-823D-5AAF2D4E4811}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Palindrom Number", "9. Palindrom Number\09. Palindrom Number.csproj", "{AFD0ABCA-9D12-4411-BC32-240A617DF92A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Palindrom Number", "9. Palindrom Number\09. Palindrom Number.csproj", "{AFD0ABCA-9D12-4411-BC32-240A617DF92A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26. Remove Duplicates from Sorted Array", "26. Remove Duplicates from Sorted Array\26. Remove Duplicates from Sorted Array.csproj", "{BB081993-AA42-4378-80C7-C2D062202953}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26. Remove Duplicates from Sorted Array", "26. Remove Duplicates from Sorted Array\26. Remove Duplicates from Sorted Array.csproj", "{BB081993-AA42-4378-80C7-C2D062202953}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27. Remove Element", "27. Remove Element\27. Remove Element.csproj", "{025CD9C0-FB7B-46B7-A2C6-EA0EDA2FE587}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. Remove Element", "27. Remove Element\27. Remove Element.csproj", "{025CD9C0-FB7B-46B7-A2C6-EA0EDA2FE587}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "88. Merge Sorted Array", "88. Merge Sorted Array\88. Merge Sorted Array.csproj", "{BF5D885C-0C5D-42DB-A8D8-0D95A970C625}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88. Merge Sorted Array", "88. Merge Sorted Array\88. Merge Sorted Array.csproj", "{BF5D885C-0C5D-42DB-A8D8-0D95A970C625}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66. Plus One", "66. Plus One\66. Plus One.csproj", "{74077396-D3F9-44E9-AA35-59A2EC1933A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BEC27AFB-0744-4066-823D-5AAF2D4E4811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BEC27AFB-0744-4066-823D-5AAF2D4E4811}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BEC27AFB-0744-4066-823D-5AAF2D4E4811}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BEC27AFB-0744-4066-823D-5AAF2D4E4811}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AFD0ABCA-9D12-4411-BC32-240A617DF92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AFD0ABCA-9D12-4411-BC32-240A617DF92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFD0ABCA-9D12-4411-BC32-240A617DF92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +35,10 @@ Global
 		{BF5D885C-0C5D-42DB-A8D8-0D95A970C625}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF5D885C-0C5D-42DB-A8D8-0D95A970C625}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF5D885C-0C5D-42DB-A8D8-0D95A970C625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74077396-D3F9-44E9-AA35-59A2EC1933A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74077396-D3F9-44E9-AA35-59A2EC1933A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74077396-D3F9-44E9-AA35-59A2EC1933A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74077396-D3F9-44E9-AA35-59A2EC1933A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
