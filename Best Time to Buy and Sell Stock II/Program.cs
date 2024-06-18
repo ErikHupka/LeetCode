@@ -1,4 +1,5 @@
 ﻿Console.WriteLine(MaxProfit([1,2,3,4,5]));
+int[] arrsad = [12, 2, 34, 54, 8, 9];
 
 static int MaxProfit(int[] prices)
 {
