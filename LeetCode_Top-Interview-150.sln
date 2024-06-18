@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "172. Factorial Trailing Zer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "69. Sqrt(x)", "69. Sqrt(x)\69. Sqrt(x).csproj", "{1A76C940-27DC-43C9-864A-BE4392061C12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Best Time to Buy and Sell Stock II", "Best Time to Buy and Sell Stock II\Best Time to Buy and Sell Stock II.csproj", "{879A9D4B-87D4-44E2-8929-1FCDEAB0B1E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{1A76C940-27DC-43C9-864A-BE4392061C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A76C940-27DC-43C9-864A-BE4392061C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A76C940-27DC-43C9-864A-BE4392061C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{879A9D4B-87D4-44E2-8929-1FCDEAB0B1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879A9D4B-87D4-44E2-8929-1FCDEAB0B1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879A9D4B-87D4-44E2-8929-1FCDEAB0B1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879A9D4B-87D4-44E2-8929-1FCDEAB0B1E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
