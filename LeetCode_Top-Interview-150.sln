@@ -11,17 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27. Remove Element", "27. R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "88. Merge Sorted Array", "88. Merge Sorted Array\88. Merge Sorted Array.csproj", "{BF5D885C-0C5D-42DB-A8D8-0D95A970C625}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66. Plus One", "66. Plus One\66. Plus One.csproj", "{74077396-D3F9-44E9-AA35-59A2EC1933A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "66. Plus One", "66. Plus One\66. Plus One.csproj", "{74077396-D3F9-44E9-AA35-59A2EC1933A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "172. Factorial Trailing Zeroes", "172. Factorial Trailing Zeroes\172. Factorial Trailing Zeroes.csproj", "{5AC9D657-5D08-41F2-8120-1879199A3E25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "172. Factorial Trailing Zeroes", "172. Factorial Trailing Zeroes\172. Factorial Trailing Zeroes.csproj", "{5AC9D657-5D08-41F2-8120-1879199A3E25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "69. Sqrt(x)", "69. Sqrt(x)\69. Sqrt(x).csproj", "{1A76C940-27DC-43C9-864A-BE4392061C12}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Best Time to Buy and Sell Stock II", "Best Time to Buy and Sell Stock II\Best Time to Buy and Sell Stock II.csproj", "{879A9D4B-87D4-44E2-8929-1FCDEAB0B1E1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quicksort", "Quicksort\Quicksort.csproj", "{66309142-55B9-4F03-B3BC-F62656D3D8B3}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interview", "Interview\Interview.csproj", "{6B9811CD-27F8-4A4D-84A2-FC5DF3788DB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "69. Sqrt(x)", "69. Sqrt(x)\69. Sqrt(x).csproj", "{1A76C940-27DC-43C9-864A-BE4392061C12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,18 +51,6 @@ Global
 		{1A76C940-27DC-43C9-864A-BE4392061C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A76C940-27DC-43C9-864A-BE4392061C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A76C940-27DC-43C9-864A-BE4392061C12}.Release|Any CPU.Build.0 = Release|Any CPU
-		{879A9D4B-87D4-44E2-8929-1FCDEAB0B1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{879A9D4B-87D4-44E2-8929-1FCDEAB0B1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{879A9D4B-87D4-44E2-8929-1FCDEAB0B1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{879A9D4B-87D4-44E2-8929-1FCDEAB0B1E1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{66309142-55B9-4F03-B3BC-F62656D3D8B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{66309142-55B9-4F03-B3BC-F62656D3D8B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{66309142-55B9-4F03-B3BC-F62656D3D8B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{66309142-55B9-4F03-B3BC-F62656D3D8B3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6B9811CD-27F8-4A4D-84A2-FC5DF3788DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6B9811CD-27F8-4A4D-84A2-FC5DF3788DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6B9811CD-27F8-4A4D-84A2-FC5DF3788DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6B9811CD-27F8-4A4D-84A2-FC5DF3788DB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
