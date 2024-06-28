@@ -1,1 +1,1 @@
-# LeetCode_Top-Interview-150
+# A repository for LeetCode Challenges
